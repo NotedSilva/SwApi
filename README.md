@@ -3,4 +3,4 @@
 consumindo api no react native
 
 
-![Uploading Api_Star_Wars.png…]()
+![Api_Star_Wars](https://github.com/NotedSilva/SwApi/assets/119432493/79174d34-40d2-403a-9915-2ef06d7d631a)
